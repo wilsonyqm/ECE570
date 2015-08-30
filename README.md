@@ -1,2 +1,2 @@
-# ECE570 Artifical Intellegience Programming with scheme
+# ECE570 Artifical Intellegence Programming with scheme
 
